@@ -12,6 +12,7 @@ Hey, I'm jerlendds !</h3>
 ---
 
 
+
 <img alt="Python" align="left"  src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="JavaScript" align="left"  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="TailwindCSS"  align="left"  src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
@@ -22,7 +23,8 @@ Hey, I'm jerlendds !</h3>
 <img alt="Nginx" align="right"  src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
 <img alt="Postgres" align="right" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-and more...
+
+
 
 ---
 
