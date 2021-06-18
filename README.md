@@ -35,8 +35,12 @@ Hey, I'm jerlendds !</h3>
 
 
 
+ **About Me!**  <img height="30" align="right" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+ 
+ 
+<img alt="about me last updated" src="https://img.shields.io/github/last-commit/jerlendds/jerlendds/master?label=last%20updated&style=flat-square" />
 
- **About Me!** <img alt="about me last updated" src="https://img.shields.io/github/last-commit/jerlendds/jerlendds/master?label=last%20updated&style=flat-square" /> <img height="30" align="right" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+  
 - I’m currently working on some data analysis code for an upcoming project
 - I’m currently reviewing and learning from my CLRS Algorithms & Clean Architecture books.
 - I’m looking to collaborate on any web apps, web scraping, and or data science projects.
