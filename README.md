@@ -1,8 +1,8 @@
 <!-- Hey future me, nice badges here: https://shields.io/category/activity -->
 
-
+<img align="right" alt="Profile views" src="https://komarev.com/ghpvc/?username=jerlendds&color=brightgreen&style=flat-square" />
 <h3 title="hehehe">
-Hey, I'm jerlendds !</h3>   
+Hey, I'm jerlendds !</h3>
 <img align="right" width="300" alt="img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtul6ZK_089y64Jx0HxDgsxbeS1yf8Jy8uZA&usqp=CAU" />
 
 
