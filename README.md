@@ -25,7 +25,6 @@ Hey, I'm jerlendds !</h3>
     <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
     <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
     <img alt="Webpack"  src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
-    <img alt="Django"    src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
     <img alt="DigitalOcean"    src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"/>
     <img alt="Nginx"  src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
     <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D"/>
@@ -53,7 +52,7 @@ Hey, I'm jerlendds !</h3>
 - I’m looking to collaborate on any web apps, web scraping, and or data science projects.
 - I’m looking for help with developing a niche SEO-like tool
 <div align="flex">
-   <img alt="Ask me anything!" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" />
+   <img alt="Ask me anything!" src="https://img.shields.io/badge/%E2%80%A2-Ask%20me%20anything-4cc121.svg?colorA=4cc121" />
  
  
    <strong>jerlends@tuta.io</strong>
