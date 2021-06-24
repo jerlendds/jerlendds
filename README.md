@@ -45,7 +45,7 @@ Hey, I'm jerlendds !</h3>
 - I’m currently working on some data analysis code for an upcoming project
 - I’m currently reviewing and learning from my CLRS Algorithms & Clean Architecture books.
 - I’m looking to collaborate on any web apps, web scraping, and or data science projects.
-- I’m looking for help with developing an open source food ordering system
+- I’m looking for help with developing a niche SEO-like tool
 - jerlends@tuta.io
 
 
