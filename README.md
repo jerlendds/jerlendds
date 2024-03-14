@@ -30,7 +30,7 @@ Hi, I'm jerlendds!
 
 [![Change the graph, change the world](https://badgen.net/badge/Graphs/Network%20Science/green?icon=https://studium.dev/static/studium-dev-logo.svg&scale=1.15&labelColor=black)](http://networksciencebook.com/) [![Tor Browser](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)](https://www.eff.org/document/tor-myths-and-facts) [![I've memorized 40+ digits of Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)](https://github.com/thibmaek/awesome-raspberry-pi)
 
-[![LiberaPay](https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black)](https://liberapay.com/jerlendds/) [![OpenCollective](https://img.shields.io/badge/OpenCollective-1F87FF?style=for-the-badge&logo=OpenCollective&logoColor=white)](https://opencollective.com/openinfolabs)  [![Built with](https://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/jerlendds/osintbuddy)
+[![LiberaPay](https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black)](https://liberapay.com/jerlendds/) [![OpenCollective](https://img.shields.io/badge/OpenCollective-1F87FF?style=for-the-badge&logo=OpenCollective&logoColor=white)](https://opencollective.com/openinfolabs)  [![Built with](https://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/jerlendds/osintbuddy)  [![Welcome to a revolution, let's create Web 5.0](https://badgen.net/badge/A%20revolution%20%3B%29/Web%205%2E0/pink?icon=scale=1.15&labelColor=black)](https://developer.tbd.website/projects/web5/) 
 
 </div>
 
@@ -74,11 +74,14 @@ Fan of Linux & Libre Software <br/>
 
 [![AMA](https://img.shields.io/badge/%E2%80%A2-Ask%20me%20anything-4cc121.svg?colorA=4cc121)](mailto:good@luck.stranger)
 
-<a href="https://discord.gg/gsbbYHA3K3">on discord</a>
+- <a href="https://discord.gg/gsbbYHA3K3">on discord</a>
+
+- <a href="mailto:">or by email</a>
 
 </div>
 
 <br>
 
 [![studium.dev RSS Feed](https://img.shields.io/badge/RSS%20%7E%20studium.dev-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://studium.dev/index.xml)
+
 
