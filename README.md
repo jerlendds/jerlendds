@@ -76,7 +76,7 @@ Fan of Linux & Libre Software <br/>
 
 - <a href="https://discord.gg/gsbbYHA3K3">on discord</a>
 
-- <a href="mailto:">or by email</a>
+- <a href="mailto:hyphen_annuity516@simplelogin.com">or by email</a>
 
 </div>
 
