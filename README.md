@@ -5,7 +5,7 @@
 
 <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fjerlendds%3Ftab%3Dfollowers"><img align="right" src="https://img.shields.io/github/followers/jerlendds.svg?style=social&label=Follow&maxAge=2592000" /></a> 
 
-Hi, I'm jerlendds ~ Nivalis ❆ ~ Click the badges for *fun facts* :)
+Hi, I'm jerlendds ~ nivalis ❆ ~ Click the badges for *fun facts* :)
 
 </h3>
 
@@ -52,7 +52,7 @@ Learn more about me on my personal site/blog <a href="https://studium.dev/" rel=
 
 Self-Taught <br/>
 Life-Long Learner <br/>
-Fan of Linux & Libre Software <br/>
+Fan of Linux, *BSD, and Libre Software (or whatever these principles may evolve into ;) <br/>
 
 
 <details open><summary> <strong>Interests:</strong> </summary>
@@ -60,8 +60,20 @@ Fan of Linux & Libre Software <br/>
 - Full-Stack Web Applications
 - Property Graphs/RDF/Network Science
 - AI/Cybernetics
-- UI/UX design
+- Alternative computational architectures (where neuromorphic would be one such example)
+- Typography/UI/UX design
 - Privacy/Encryption/Security
+- Almost any "underdog" character, sometimes [even those against my values](https://www.galton.org/letters/darwin/correspondence.htm)
+- Hacker Culture (model trains, "poorly" styled yet stylish websites, curiosity, reason, ingenuity, phone booths)
+- Collective Intelligence/Organizationl Structures (Centralized, Decentralized, Hierarchical, etc) 
+- Systems Thinking
+- Complexity & Chaos
+- Neo-Cybernetics
+- Intellectual Property/Library Freedom
+- Rationalism/Empiricism/etc/Epistemology and looking towards whatever schools of thought are emerging and may come next
+- [Wicked Problems](https://wicked-problem.press.plymouth.edu/chapter/what-is-a-wicked-problem/)
+- Thinking on deep questions (e.g. what kind of a world do we want and what must we do to get there?)
+- Federated Systems
 
 </details>
 
