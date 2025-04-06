@@ -43,7 +43,7 @@ Hi, I'm jerlendds ~ nivalis ❆ ~ Click the badges for *fun facts* :)
 I'm currently working on the <a href="https://github.com/jerlendds/osintbuddy">OSINTBuddy</a> project in my free time.
 
 
-Learn more about me on my personal site/blog <a href="https://studium.dev/" rel="nofollow">studium.dev</a> or join the <a href="https://discord.gg/gsbbYHA3K3" rel="nofollow">discord</a> or <a href="https://lemmy.ml/c/osintbuddy" rel="nofollow">lemmy community</a> to get involved with the osintbuddy project.
+Learn more about me on my personal site/blog <a href="https://studium.dev/" rel="nofollow">studium.dev</a> or join the <a href="https://discord.gg/b8vW4J4skv" rel="nofollow">discord</a> to get involved with the osintbuddy project.
 
 
 [![github profile last updated](https://img.shields.io/github/last-commit/jerlendds/jerlendds/main?label=last%20updated&amp;style=flat-square)](https://github.com/jerlendds/jerlendds/commits)
@@ -60,6 +60,7 @@ Fan of Linux, *BSD, and Libre Software (or whatever these principles may evolve 
 - Full-Stack Web Applications
 - Property Graphs/RDF/Network Science
 - AI/Cybernetics
+- Neo-Cybernetics
 - Alternative computational architectures (where neuromorphic would be one such example)
 - Typography/UI/UX design
 - Privacy/Encryption/Security
@@ -68,11 +69,7 @@ Fan of Linux, *BSD, and Libre Software (or whatever these principles may evolve 
 - Collective Intelligence/Organizationl Structures (Centralized, Decentralized, Hierarchical, etc) 
 - Systems Thinking
 - Complexity & Chaos
-- Neo-Cybernetics
 - Intellectual Property/Library Freedom
-- Rationalism/Empiricism/etc/Epistemology and looking towards whatever schools of thought are emerging and may come next
-- [Wicked Problems](https://wicked-problem.press.plymouth.edu/chapter/what-is-a-wicked-problem/)
-- Thinking on deep questions (e.g. what kind of a world do we want and what must we do to get there?)
 - Federated Systems
 
 </details>
@@ -88,7 +85,7 @@ Fan of Linux, *BSD, and Libre Software (or whatever these principles may evolve 
 
 - <a href="https://discord.gg/gsbbYHA3K3">on discord</a>
 
-- <a href="mailto:hyphen_annuity516@simplelogin.com">or by email</a>
+- <a href="mailto:oss@osintbuddy.com">oss@osintbuddy.com</a>
 
 </div>
 
