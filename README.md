@@ -52,7 +52,7 @@ Learn more about me on my personal site/blog <a href="https://studium.dev/" rel=
 
 Self-Taught <br/>
 Life-Long Learner <br/>
-Fan of Linux, *BSD, and Libre Software (or whatever these principles may evolve into ;) <br/>
+Fan of Linux, *BSD, and F/OSS Software  <br/>
 
 
 <details open><summary> <strong>Interests:</strong> </summary>
