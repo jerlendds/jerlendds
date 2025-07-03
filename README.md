@@ -59,16 +59,14 @@ Fan of Linux, *BSD, and F/OSS Software  <br/>
 
 - Full-Stack Web Applications
 - Property Graphs/RDF/Network Science
-- AI/Cybernetics
-- Neo-Cybernetics
-- Alternative computational architectures (where neuromorphic would be one such example)
+- AI/Cybernetics/Neo-Cybernetics
 - Typography/UI/UX design
+- Neuroscience/Physics/Complexity/Chaos
 - Privacy/Encryption/Security
-- Almost any "underdog" character, sometimes [even those against my values](https://www.galton.org/letters/darwin/correspondence.htm)
-- Hacker Culture (model trains, "poorly" styled yet stylish websites, curiosity, reason, ingenuity, phone booths)
-- Collective Intelligence/Organizationl Structures (Centralized, Decentralized, Hierarchical, etc) 
+- Almost any "underdog" character, [even those against my values](https://www.galton.org/letters/darwin/correspondence.htm)
+- Hacker Culture (model trains, poorly styled yet stylish websites, curiosity, reason, ingenuity, phone booths)
+- Collective Intelligence/Organizational Structures (Centralized, Decentralized, Hierarchical, etc) 
 - Systems Thinking
-- Complexity & Chaos
 - Intellectual Property/Library Freedom
 - Federated Systems
 
@@ -81,7 +79,7 @@ Fan of Linux, *BSD, and F/OSS Software  <br/>
 
 <div align="flex" dir="auto">
 
-[![AMA](https://img.shields.io/badge/%E2%80%A2-Ask%20me%20anything-4cc121.svg?colorA=4cc121)](mailto:good@luck.stranger)
+[![AMA](https://img.shields.io/badge/%E2%80%A2-Ask%20me%20anything-4cc121.svg?colorA=4cc121)](mailto:oss@osintbuddy.com)
 
 - <a href="https://discord.gg/gsbbYHA3K3">on discord</a>
 
