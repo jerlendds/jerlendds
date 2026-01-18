@@ -21,11 +21,6 @@ Hi, I'm jerlendds ~ nivalis ❆ ~ Click the badges for *fun facts* :)
 
 <div dir="auto">
 
-[![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://python.org) [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white)](https://www.typescriptlang.org/) [![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&amp;logo=gnu-bash&amp;logoColor=white)](https://www.gnu.org/software/bash/manual/bash.html) [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&amp;logo=go&amp;logoColor=white)](https://go.dev/)
-
-</div>
-<div dir="auto">
-
 [![Change the graph, change the world](https://badgen.net/badge/Graphs/Network%20Science/green?icon=https://studium.dev/static/studium-dev-logo.svg&scale=1.15&labelColor=black)](http://networksciencebook.com/) [![Tor Browser](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)](https://www.eff.org/document/tor-myths-and-facts) [![Built with](https://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/jerlendds/osintbuddy)
 
 </div>
