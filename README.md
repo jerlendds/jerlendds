@@ -26,8 +26,6 @@ Hi, I'm jerlendds ~ nivalis ❆ ~ Click the badges for *fun facts* :)
 </div>
 <div dir="auto">
 
-[![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white)](https://www.postgresql.org/) [![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&amp;logo=webpack&amp;logoColor=black)](https://webpack.js.org/) [![Docker/Containers](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&amp;logo=docker&amp;logoColor=white)](https://www.docker.com/) [![NeoVim is <3](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/rockerBOO/awesome-neovim)
-
 [![Change the graph, change the world](https://badgen.net/badge/Graphs/Network%20Science/green?icon=https://studium.dev/static/studium-dev-logo.svg&scale=1.15&labelColor=black)](http://networksciencebook.com/) [![Tor Browser](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)](https://www.eff.org/document/tor-myths-and-facts) [![Built with](https://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/jerlendds/osintbuddy)
 
 </div>
