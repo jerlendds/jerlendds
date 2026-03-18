@@ -5,7 +5,7 @@
 
 <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fjerlendds%3Ftab%3Dfollowers"><img align="right" src="https://img.shields.io/github/followers/jerlendds.svg?style=social&label=Follow&maxAge=2592000" /></a> 
 
-Hi, I'm jerlendds ~ nivalis ❆ ~ Click the badges for *fun facts* :)
+Hi, I'm sometimes known as jerlendds ❆ I dare you to *click the badges* ;)
 
 </h3>
 
@@ -30,56 +30,14 @@ Hi, I'm jerlendds ~ nivalis ❆ ~ Click the badges for *fun facts* :)
 
 <img height="30" align="right" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="max-width: 100%;">
 
-
-I'm currently working on the <a href="https://github.com/jerlendds/osintbuddy">OSINTBuddy</a> project in my free time.
-
-
-Learn more about me on my personal site/blog <a href="https://studium.dev/" rel="nofollow">studium.dev</a> or join the <a href="https://discord.gg/b8vW4J4skv" rel="nofollow">discord</a> to get involved with the osintbuddy project.
-
-
 [![github profile last updated](https://img.shields.io/github/last-commit/jerlendds/jerlendds/main?label=last%20updated&amp;style=flat-square)](https://github.com/jerlendds/jerlendds/commits)
 
 ### About me
 
-Self-Taught <br/>
-Life-Long Learner <br/>
-Fan of Linux, *BSD, and F/OSS Software  <br/>
-
-
-<details open><summary> <strong>Interests:</strong> </summary>
-
-- Full-Stack Web Applications
-- Property Graphs/RDF/Network Science
-- AI/Cybernetics/Neo-Cybernetics
-- Typography/UI/UX design
-- Neuroscience/Physics/Complexity/Chaos
-- Privacy/Encryption/Security
-- Almost any "underdog" character, [even those against my values](https://www.galton.org/letters/darwin/correspondence.htm)
-- Hacker Culture (model trains, poorly styled yet stylish websites, curiosity, reason, ingenuity, phone booths)
-- Collective Intelligence/Organizational Structures (Centralized, Decentralized, Hierarchical, etc) 
-- Systems Thinking
-- Intellectual Property/Library Freedom
-- Federated Systems
-
-</details>
-
-
-
-
+- Self-Taught <br/>
+- Life-Long Learner <br/>
+- Fan of Linux, *BSD, and F/OSS Software  <br/>
+- ~~Dangerously curious...~~
+- Working at the edge of legitimacy
 <br/>
-
-<div align="flex" dir="auto">
-
-[![AMA](https://img.shields.io/badge/%E2%80%A2-Ask%20me%20anything-4cc121.svg?colorA=4cc121)](mailto:oss@osintbuddy.com)
-
-- <a href="https://discord.gg/gsbbYHA3K3">on discord</a>
-
-- <a href="mailto:oss@osintbuddy.com">oss@osintbuddy.com</a>
-
-</div>
-
-<br>
-
-[![studium.dev RSS Feed](https://img.shields.io/badge/RSS%20%7E%20studium.dev-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://studium.dev/index.xml)
-
 
