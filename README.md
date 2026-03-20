@@ -37,7 +37,7 @@ Hi, I'm sometimes known as jerlendds ❆ I dare you to *click the badges* ;)
 - Self-Taught <br/>
 - Life-Long Learner <br/>
 - Fan of Linux, *BSD, and F/OSS Software  <br/>
-- ~~Dangerously curious...~~
-- Working at the edge of legitimacy
+- Dangerously curious...
+- ~~Working at the edge of legitimacy~~
 <br/>
 
