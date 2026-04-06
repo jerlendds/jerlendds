@@ -21,7 +21,7 @@ Hi, I'm sometimes known as jerlendds ❆ I dare you to *click the badges* ;)
 
 <div dir="auto">
 
-[![Change the graph, change the world](https://badgen.net/badge/Graphs/Network%20Science/green?icon=https://studium.dev/static/studium-dev-logo.svg&scale=1.15&labelColor=black)](http://networksciencebook.com/) [![Tor Browser](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)](https://www.eff.org/document/tor-myths-and-facts) [![Built with](https://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/jerlendds/osintbuddy)
+[![Change the graph, change the world](https://badgen.net/badge/Graphs/Network%20Science/green?icon=https://studium.dev/static/studium-dev-logo.svg&scale=1.15&labelColor=black)](http://networksciencebook.com/) [![Tor Browser](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)](https://www.eff.org/document/tor-myths-and-facts) [![Built with love](https://img.shields.io/badge/built%20with-%E2%9D%A4-red)](https://omoika.space/)
 
 </div>
 
