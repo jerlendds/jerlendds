@@ -5,7 +5,7 @@
 
 <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fjerlendds%3Ftab%3Dfollowers"><img align="right" src="https://img.shields.io/github/followers/jerlendds.svg?style=social&label=Follow&maxAge=2592000" /></a> 
 
-Hi, I'm sometimes known as jerlendds ❆ I dare you to *click the badges* ;)
+Hi, I'm sometimes known as jerlendds ❆ dare you to *click the badges* ;)
 
 </h3>
 
