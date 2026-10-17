@@ -41,6 +41,6 @@ Hi, I'm known as jerlendds online ❆ dare you to *click the badges* ;)
 - Pursuing _intelligent physically learning systems_ via reservoir computing nanotech in my free-time...
 - Currently a software developer and amateur independent scientist.
 - Planning to study nano-engineering formally in the coming years.
-
+- Personal site: <https://graphsociety.org>
 <br/>
 
