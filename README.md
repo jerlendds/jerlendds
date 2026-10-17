@@ -34,10 +34,13 @@ Hi, I'm known as jerlendds online ❆ dare you to *click the badges* ;)
 
 ### About me
 
-- Self-Taught
-- Life-Long Learner
-- Fan of Linux, *BSD, and F/OSS Software
+- Self-Taught.
+- Life-Long Learner.
+- Fan of Linux, *BSD, and F/OSS Software.
 - Dangerously curious...
+- Pursuing _intelligent physically learning systems_ via reservoir computing nanotech in my free-time...
+- Currently a software developer and amateur independent scientist.
+- Planning to study nano-engineering formally in the coming years.
 
 <br/>
 
